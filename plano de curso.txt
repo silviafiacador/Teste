@@ -1,0 +1,29 @@
+ok -Introdução: o que é Java, edições da plataforma, histórico, onde usar, mercado e perfil do profissional, referências e documentação 
+
+ok - Compilação e execução de programa Java, JVM , JDK, ambiente de desenvolvimento, configurações 
+
+ok - Regras (sintaxe), convenções e boas práticas 
+
+ok - Lógica de programação em Java: tipos de dados,   - 
+ok - if simples, encadeado, switch
+OK - explorando classe Math
+ok - explorando classe String
+
+ok - estruturas de controle, operadores, casting 
+
+ok - Conceitos iniciais e prática para programação orientada a objetos: definição, princípios, onde é usada, histórico, classes e objetos, atributos e métodos 
+ok -IDE Eclipse: configurações, estrutura de arquivos, principais recursos e atalhos 
+
+ok Depuração de programa (debug) 
+
+? Classes, métodos e construtor 
+
+ok Strings e arrays: manipulação 
+
+? Encapsulamento, modificadores, getters e setters 
+
+? Herança, superclasse, subclasse, acoplamento, anotação @override, palavras reservadas this e super (análise: herança X composição), polimorfismo 
+
+? Pacotes, API Date/Time (Java 8) 
+
+? Interface e threads 
